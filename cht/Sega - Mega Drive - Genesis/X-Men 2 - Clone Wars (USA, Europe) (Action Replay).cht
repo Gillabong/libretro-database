@@ -1,27 +1,27 @@
 cheats = 16 
 
 cheat0_desc = "Infinite Health P1"
-cheat0_code = "FFEB10:09"
+cheat0_code = "FFEB10:0009"
 cheat0_enable = false 
 
 cheat1_desc = "Infinite Health P2"
-cheat1_code = "FFEA20:09"
+cheat1_code = "FFEA20:0009"
 cheat1_enable = false 
 
 cheat2_desc = "Infinite Lives (All Characters)"
-cheat2_code = "FFC959:09"
+cheat2_code = "FFC958:0009"
 cheat2_enable = false 
 
 cheat3_desc = "Can Perform Mutant Powers At Any Time P1"
-cheat3_code = "FFEA85:DD"
+cheat3_code = "FFEA84:00DD"
 cheat3_enable = false 
 
 cheat4_desc = "Can Perform Mutant Powers At Any Time P2"
-cheat4_code = "FFFA9D:DD"
+cheat4_code = "FFFA9C:00DD"
 cheat4_enable = false 
 
 cheat5_desc = "Hyper P1"
-cheat5_code = "FFEAF3:08"
+cheat5_code = "FFEAF2:0008"
 cheat5_enable = false 
 
 cheat6_desc = "P1 Character Highlighter"
@@ -41,11 +41,11 @@ cheat9_code = "FFEAD9:63"
 cheat9_enable = false 
 
 cheat10_desc = "Enemies Can't Touch P1"
-cheat10_code = "FFEB13:1B"
+cheat10_code = "FFEB12:0018"
 cheat10_enable = false 
 
 cheat11_desc = "Moon Jump P1"
-cheat11_code = "FFEAC1:9B+FFEB13:1B"
+cheat11_code = "FFEAC0:009B+FFEB12:001B"
 cheat11_enable = false 
 
 cheat12_desc = "Fast Running + Free Movement In Air P1"
@@ -53,11 +53,11 @@ cheat12_code = "FFEACA:10+FFEB13:1B"
 cheat12_enable = false 
 
 cheat13_desc = "Enemies Can't Touch P2"
-cheat13_code = "FFEA23:1B"
+cheat13_code = "FFEA22:001B"
 cheat13_enable = false 
 
 cheat14_desc = "Moon Jump P2"
-cheat14_code = "FFE9D1:9B+FFEA23:1B"
+cheat14_code = "FFE9D0:009B+FFEA22:001B"
 cheat14_enable = false 
 
 cheat15_desc = "Fast Running + Free Movement In Air P2"
