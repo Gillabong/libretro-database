@@ -1,0 +1,145 @@
+cheats = 36
+
+cheat0_desc = "Invincibility"
+cheat0_code = "RZ4A-A6V8"
+cheat0_enable = false
+
+cheat1_desc = "Start with 2 ships"
+cheat1_code = "AECT-AAE6"
+cheat1_enable = false
+
+cheat2_desc = "Start with 3 ships"
+cheat2_code = "AJCT-AAE6"
+cheat2_enable = false
+
+cheat3_desc = "Start with 8 ships"
+cheat3_code = "A6CT-AAE6"
+cheat3_enable = false
+
+cheat4_desc = "Start with 10 ships"
+cheat4_code = "BECT-AAE6"
+cheat4_enable = false
+
+cheat5_desc = "Infinite ships"
+cheat5_code = "AJEA-AA20"
+cheat5_enable = false
+
+cheat6_desc = "Start with 1 credit instead of 5"
+cheat6_code = "AECT-AAFC"
+cheat6_enable = false
+
+cheat7_desc = "Start with 3 credits"
+cheat7_code = "ANCT-AAFC"
+cheat7_enable = false
+
+cheat8_desc = "Start with 7 credits"
+cheat8_code = "A6CT-AAFC"
+cheat8_enable = false
+
+cheat9_desc = "Start with 9 credits"
+cheat9_code = "BECT-AAFC"
+cheat9_enable = false
+
+cheat10_desc = "Infinite credits"
+cheat10_code = "A2ET-AA98"
+cheat10_enable = false
+
+cheat11_desc = "Break defender lasts forever"
+cheat11_code = "AK4A-AA6N"
+cheat11_enable = false
+
+cheat12_desc = "Don't Lose Weapon Type When You Lose a Ship"
+cheat12_code = "AJEA-AA6J"
+cheat12_enable = false
+
+cheat13_desc = "Don't lose weapon type or power level when you lose a ship"
+cheat13_code = "DAEA-AA58"
+cheat13_enable = false
+
+cheat14_desc = "Start With T-Braster"
+cheat14_code = "RECT-A60A+9TCT-BCRC+AJCT-A2GE+BJST-AA74"
+cheat14_enable = false
+
+cheat15_desc = "Start with F-Formation"
+cheat15_code = "RECT-A60A+9TCT-BCRC+AJCT-AWGE+BJST-AA74"
+cheat15_enable = false
+
+cheat16_desc = "Start with T-Vulcan"
+cheat16_code = "RECT-A60A+9TCT-BCRC+AJCT-AYGE+BJST-AA74"
+cheat16_enable = false
+
+cheat17_desc = "Start With Q-Missile"
+cheat17_code = "RECT-A60A+9TCT-BCRC+AJCT-A4GE+BJST-AA74"
+cheat17_enable = false
+
+cheat18_desc = "Start with H-Missile"
+cheat18_code = "RECT-A60A+9TCT-BCRC+AJCT-A6GE+BJST-AA74"
+cheat18_enable = false
+
+cheat19_desc = "Start With A-Bullet"
+cheat19_code = "RECT-A60A+9TCT-BCRC+AJCT-A0GE+BJST-AA74"
+cheat19_enable = false
+
+cheat20_desc = "Combine with &quot;Start with ? weapon&quot; Codes to start that weapon with max power"
+cheat20_code = "AJCT-AA8T"
+cheat20_enable = false
+
+cheat21_desc = "Invincibility"
+cheat21_code = "AV4A-AA40"
+cheat21_enable = false
+
+cheat22_desc = "Hit Anywhere"
+cheat22_code = "CK2T-AA86+AK3A-AA4L"
+cheat22_enable = false
+
+cheat23_desc = "Start With P-Cannon"
+cheat23_code = "RECT-A60A+9TCT-BCRC+AJCT-ACGE"
+cheat23_enable = false
+
+cheat24_desc = "Start With G-Beam"
+cheat24_code = "RECT-A60A+9TCT-BCRC+AJCT-AEGE"
+cheat24_enable = false
+
+cheat25_desc = "Start With S-Laser"
+cheat25_code = "RECT-A60A+9TCT-BCRC+AJCT-AGGE"
+cheat25_enable = false
+
+cheat26_desc = "Start With T-Missile"
+cheat26_code = "RECT-A60A+9TCT-BCRC+AJCT-AJGE"
+cheat26_enable = false
+
+cheat27_desc = "Start With H-Laser"
+cheat27_code = "RECT-A60A+9TCT-BCRC+AJCT-ALGE"
+cheat27_enable = false
+
+cheat28_desc = "Start With V-Laser"
+cheat28_code = "RECT-A60A+9TCT-BCRC+AJCT-ANGE"
+cheat28_enable = false
+
+cheat29_desc = "Start With R-Collider"
+cheat29_code = "RECT-A60A+9TCT-BCRC+AJCT-ARGE"
+cheat29_enable = false
+
+cheat30_desc = "Start With E-Smash"
+cheat30_code = "RECT-A60A+9TCT-BCRC+AJCT-ATGE"
+cheat30_enable = false
+
+cheat31_desc = "Freeze Time Continue"
+cheat31_code = "AJFA-AA7G"
+cheat31_enable = false
+
+cheat32_desc = "Level select cheat is activated. See notes."
+cheat32_code = "RECT-A61E"
+cheat32_enable = false
+
+cheat33_desc = "Weapon select/weapon power-up cheat. Pause game, hold up and press A for weapon select, hold up and press C for power up."
+cheat33_code = "REDT-A6YE"
+cheat33_enable = false
+
+cheat34_desc = "Always get the T-Vulcan the first time you capture a weapon with your TOZ.  See notes."
+cheat34_code = "GB6A-AA3A+RF6A-A6T4"
+cheat34_enable = false
+
+cheat35_desc = "1 hit kills all enemies and bosses. See notes."
+cheat35_code = "JBMT-AEV6"
+cheat35_enable = false
