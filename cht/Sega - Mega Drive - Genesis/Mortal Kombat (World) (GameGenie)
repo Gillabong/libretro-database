@@ -1,0 +1,77 @@
+cheats = 19
+
+cheat0_desc = "Infinite HP for player 2"
+cheat0_code = "P2JT-AETJ+E2JT-AAAL"
+cheat0_enable = false
+
+cheat1_desc = "Infinite HP for player 1"
+cheat1_code = "P2JT-AETA+E2JT-AAAC"
+cheat1_enable = false
+
+cheat2_desc = "Infinite time for 'Test Your Might'"
+cheat2_code = "AVTT-CA5T"
+cheat2_enable = false
+
+cheat3_desc = "Infinite Health [Player 1]"
+cheat3_code = "FFCAB800FA"
+cheat3_enable = false
+
+cheat4_desc = "Infinite Health [Player 2]"
+cheat4_code = "FFCBB800FA"
+cheat4_enable = false
+
+cheat5_desc = "Infinite Time For Matches"
+cheat5_code = "FFAC7E00FA"
+cheat5_enable = false
+
+cheat6_desc = "Enable Blood"
+cheat6_code = "FFFF560000"
+cheat6_enable = false
+
+cheat7_desc = "Infinite time"
+cheat7_code = "AKRA-AA7N"
+cheat7_enable = false
+
+cheat8_desc = "Infinite Energy"
+cheat8_code = "9VRA-BGSA+SBRA-AAHC"
+cheat8_enable = false
+
+cheat9_desc = "Invincibility"
+cheat9_code = "9F8T-A6T0+D78T-AAA2+JB8T-B124+RF8T-A6T6+FH7V-9ALA+BM7V-8ACC+9X7V-9DLE+997V-994G+GX7V-81WJ+AX7V-8R4L+9D7V-86WN+D57V-944R+9D7V-86WT+LX7V-944W"
+cheat9_enable = false
+
+cheat10_desc = "Midget Characters"
+cheat10_code = "BBCA-AA26"
+cheat10_enable = false
+
+cheat11_desc = "Cheat menu is always enabled. "
+cheat11_code = "RFDT-C6WG"
+cheat11_enable = false
+
+cheat12_desc = "Liu Kang one button fatality - Press Down"
+cheat12_code = "ALHT-AA2L"
+cheat12_enable = false
+
+cheat13_desc = "Johnny Cage one button fatality - Press HP or LP"
+cheat13_code = "CWFA-AA62"
+cheat13_enable = false
+
+cheat14_desc = "Kano one button fatality Press  - Press HP or LP"
+cheat14_code = "B4DT-AA9A"
+cheat14_enable = false
+
+cheat15_desc = "Sonya one button fatality - Press Block"
+cheat15_code = "ALKT-AA6C"
+cheat15_enable = false
+
+cheat16_desc = "Sub Zero one button fatality - Press HP or LP"
+cheat16_code = "B4PT-AA32"
+cheat16_enable = false
+
+cheat17_desc = "Raiden one button fatality - Press HP or LP"
+cheat17_code = "DLXT-AA26"
+cheat17_enable = false
+
+cheat18_desc = "Scorpion one button fatality - Press Up"
+cheat18_code = "DCNT-AA2Y"
+cheat18_enable = false
